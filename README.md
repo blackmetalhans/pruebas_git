@@ -23,8 +23,7 @@ Para probar este repositorio: / To test this repository:
 ## Estado del proyecto / Project Status
 - [x] Configuración de Git / Git setup
 - [x] Creación de repositorio local / Local repository created
-- [ ] Conexión con repositorio remoto / Remote repository connection
-
+- [x] Conexión con repositorio remoto / Remote repository connection
 ---
 ### Última actualización: 12 de junio de 2026
 *Desarrollado por / Developed by Hans Soriano.*
